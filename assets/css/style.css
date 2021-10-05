@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+}
+.header {
+    text-align: center;
+}
+.navbar-menu {
+    text-decoration: none;
+    color: red;
+}
+.content-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4em;
+}
+.content-body {
+    width: 80%;
+    margin: 0 auto;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.table-profile {
+    font-size: 20px;
+    margin: 0 auto;
+    border-spacing: 15px;
+    border: 1px solid black;
+}
